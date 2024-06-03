@@ -1,0 +1,37 @@
+C:\Users\User\Desktop\Exam\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\Exam\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Exam\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Exam\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Dotnet\Week 12\Exam\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\User\Desktop\Class-Work\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\Class-Work\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Class-Work\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Class-Work\Domain\obj\Debug\net8.0\ref\Domain.dll
